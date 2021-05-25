@@ -1,5 +1,5 @@
-This is a simple django app that generates random UUIDs.
-It returns a timestamp as a key and te UUID generated for that timestamp as its value.
+This simple django app generates random UUIDs.
+It returns a timestamp as a key and the UUID generated for that timestamp as its value.
 
 REPO NAVIGATION
 1. uuid_app/
