@@ -21,3 +21,9 @@ REPO NAVIGATION
 4. app/templates/app
 - contains templates rendered by views
 
+
+USAGE WITH DOCKER
+
+1. clone the repo
+2. install docker for your os (if you have docker, skip this step)
+3. in your terminal, run 'docker compose up'
